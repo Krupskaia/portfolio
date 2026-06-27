@@ -26,6 +26,6 @@ Hi there, I'm **Alexandra**! I am a _**web developer and designer**_.
 
 *Team Collaboration
 
-This is the new logo! [logo](https://github.com/alexandra-fewd-team/pnwx-new/blob/main/images/pnwx-sm.png)
+This is the new logo ![logo](https://github.com/alexandra-fewd-team/pnwx-new/blob/main/images/pnwx-sm.png)
 
 Check my [demo](https://alexandra-fewd-team.github.io/pnwx-new/)
