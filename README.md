@@ -6,25 +6,25 @@ Hi there, I'm **Alexandra**! I am a _**web developer and designer**_.
 
 **Technical Skills:**
 
--HTML
+*HTML
 
--CSS
+*CSS
 
--JavaScript
+*avaScript
 
--WordPress
+*WordPress
 
--SQL
+*SQL
 
--Remote Collaboration Tools
+*Remote Collaboration Tools
 
 **Technical Skills:**
 
--Problem Solving
+*Problem Solving
 
--Multitasking
+*Multitasking
 
-=Team Collaboration
+*Team Collaboration
 
 This is the new logo! [logo](https://github.com/alexandra-fewd-team/pnwx-new/blob/main/images/pnwx-sm.png)
 
