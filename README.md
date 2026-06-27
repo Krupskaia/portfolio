@@ -17,6 +17,6 @@ Hi there, I'm **Alexandra**! I am a _**web developer and designer**_.
 =Team Collaboration
 
 Here's a picture of this project
-![Cats](images/hero-2.jpg)
+![logo](https://github.com/alexandra-fewd-team/pnwx-new/blob/main/images/pnwx-sm.png)
 
-If you like to visit a [demo](https://krupskaia.github.io/COMM672_assignmentM14/)
+If you like to visit a [demo]([https://krupskaia.github.io/COMM672_assignmentM14/](https://alexandra-fewd-team.github.io/pnwx-new/))
